@@ -1,2 +1,2 @@
-# Hartstone
-Technical assessment for Blizzard
+# HartStone
+Anthony Hart's HS console application
